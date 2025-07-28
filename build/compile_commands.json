@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/toby/Documents/Personal/Mickey/COSC363/Assignment1/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/factory.dir/main.cpp.o -c /home/toby/Documents/Personal/Mickey/COSC363/Assignment1/main.cpp",
+  "file": "/home/toby/Documents/Personal/Mickey/COSC363/Assignment1/main.cpp",
+  "output": "CMakeFiles/factory.dir/main.cpp.o"
+}
+]
